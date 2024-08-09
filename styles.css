@@ -5,18 +5,17 @@
     box-sizing: border-box;
 }
 
-/* Estilo global do corpo */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: #c87f7f;
     padding: 0 1em;
 }
 
 /* Estilo do cabeçalho */
 header {
-    background: #333;
+    background: #1a1a30;
     color: #fff;
     padding: 1em;
     text-align: center;
@@ -40,7 +39,7 @@ header nav a:hover {
 section {
     margin: 1em 0;
     padding: 1em;
-    background: #fff;
+    background: #9fcade;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
